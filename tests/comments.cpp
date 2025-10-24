@@ -2,6 +2,7 @@
 int main() {
     /* Multi-line
        comment example */
-    int x;
+    int x=0;
     return 0; // Inline comment
 }
+
